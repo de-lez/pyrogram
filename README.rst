@@ -30,7 +30,7 @@ About
 =====
 
 **Pyrogram** is a brand new Python library for building custom `Telegram`_ clients. It can be used
-to interact with Telegram via the MTProto API as both User or Bot and to execute any action an official
+to interact with Telegram via the MTProto API as both User or Bot and to programmatically execute any action an official
 app is able to do (and more).
 
 Features
