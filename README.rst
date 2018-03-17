@@ -73,7 +73,7 @@ Getting Started
 Installation
 ------------
 
--   You can easily install and upgrade the library using standard Python tools:
+-   You can install and upgrade ``Pyrogram`` using pip:
 
     .. code:: shell
 
@@ -110,7 +110,7 @@ Usage
         client.start()
 
         client.send_message("me", "Hi there! I'm using Pyrogram")
-        client.send_photo("me", "/home/dan/pic.jpg", "Nice photo!")
+        client.send_photo("me", "/home/dan/Pictures/perla.jpg", "Aww!")
 
         client.stop()
     
@@ -127,9 +127,9 @@ Documentation
 Contribution
 ============
 
-**You are very welcome to contribute** by either submitting pull requests or
-reporting issues/bugs as well as suggesting best practices, ideas, enhancements
-on both code and documentation. Any help is appreciated!
+``Pyrogram`` is brand new! You are welcome to try it and help make it better by either submitting pull
+requests or reporting issues/bugs as well as suggesting best practices, ideas, enhancements on both code
+and documentation. Any help is appreciated!
 
 
 Feedback
