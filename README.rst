@@ -36,26 +36,26 @@ app is able to do (and more).
 Features
 --------
 
-Pyrogram has many advantages over other libraries:
+``Pyrogram`` has many advantages over other libraries:
 
--   **Easy to setup**: Pyrogram can be easily installed using pip and requires very few lines of code to
+-   **Easy to setup**: ``Pyrogram`` can be easily installed using pip and requires very few lines of code to
     get started with.
 
--   **Easy to use**: Pyrogram provides idiomatic, developer-friendly, clean and readable Python code making
+-   **Easy to use**: ``Pyrogram`` provides idiomatic, developer-friendly, clean and readable Python code making
     the Telegram API simple to use.
 
--   **High-level**: Pyrogram automatically handles all the low-level details of communication with
+-   **High-level**: ``Pyrogram`` automatically handles all the low-level details of communication with
     Telegram servers.
 
--   **Fast**: Pyrogram speed is boosted up by `TgCrypto`_, a high-performance Telegram Crypto Library
+-   **Fast**: ``Pyrogram`` speed is boosted up by `TgCrypto`_, a high-performance Telegram Crypto Library
     written in C.
 
--   **Updated**: Pyrogram makes use of the latest Telegram MTProto API version.
+-   **Updated**: ``Pyrogram`` makes use of the latest Telegram MTProto API version.
 
--   **Documented**: Pyrogram API methods are documented and resemble the well established Telegram Bot API,
+-   **Documented**: ``Pyrogram`` API methods are documented and resemble the well established Telegram Bot API,
     thus offering a familiar look to Bot developers.
 
--   **Full API support**: Beside the simple, Bot API-like methods, Pyrogram also provides a complete access
+-   **Full API support**: Beside the simple, Bot API-like methods, ``Pyrogram`` also provides a complete access
     to every single Telegram MTProto API method.
 
 
@@ -100,7 +100,7 @@ Configuration
 Usage
 -----
 
--   And here's how Pyrogram looks like:
+-   And here's how ``Pyrogram`` looks like:
 
     .. code:: python
 
@@ -114,14 +114,14 @@ Usage
 
         client.stop()
     
-That's all you need for getting started with Pyrogram. For more detailed information,
+That's all you need for getting started with ``Pyrogram``. For more detailed information,
 please refer to the Documentation_.
 
 
 Documentation
 =============
 
-- The entire Pyrogram's documentation resides at https://docs.pyrogram.ml.
+- The entire ``Pyrogram`` documentation resides at https://docs.pyrogram.ml.
 
 
 Contribution
