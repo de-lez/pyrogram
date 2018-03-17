@@ -55,7 +55,7 @@ Features
 -   **Documented**: ``Pyrogram`` API methods are documented and resemble the well established Telegram Bot API,
     thus offering a familiar look to Bot developers.
 
--   **Full API support**: Beside the simple, Bot API-like methods, ``Pyrogram`` also provides a complete access
+-   **Full API support**: Beside the simple Bot API-like methods, ``Pyrogram`` also provides an easy access
     to every single Telegram MTProto API method.
 
 
