@@ -30,8 +30,8 @@ About
 =====
 
 **Pyrogram** is a brand new Python library for building custom `Telegram`_ clients. It can be used
-to interact with Telegram via the MTProto API as both User or Bot and to programmatically execute any action an official
-app is able to do (and more).
+to interact with Telegram via the MTProto API as both User or Bot and to programmatically execute
+any action an official app is able to do (and more).
 
 Features
 --------
@@ -55,8 +55,7 @@ Features
 -   **Documented**: ``Pyrogram`` API methods are documented and resemble the well established Telegram Bot API,
     thus offering a familiar look to Bot developers.
 
--   **Full API support**: Beside the simple Bot API-like methods, ``Pyrogram`` also provides an easy access
-    to every single Telegram MTProto API method.
+-   **Full API support**: Beside the simple Bot API-like methods, ``Pyrogram`` also provides an easy access to every single Telegram MTProto API method.
 
 
 Requirements
